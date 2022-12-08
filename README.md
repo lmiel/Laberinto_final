@@ -17,6 +17,7 @@ Laberinto
 El laberinto se representará como una una lista de listas, donde cada lista es una fila del laberinto y cada casilla se representará con un espacio ' ' si hay paso o con la letra ‘X’ si hay un muro, tal y como se muestra a continuación:
 
 laberinto = [
+
     [' ', 'X', 'X', 'X', 'X'],
     
     [' ', 'X', ' ', ' ', ' '],
